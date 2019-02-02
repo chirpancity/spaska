@@ -1,0 +1,3 @@
+Ime = Peshp
+razmer = 20sm
+email = pesho@abv.bg
