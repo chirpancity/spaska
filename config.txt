@@ -1,3 +1,3 @@
-име = гошko
-размер = 12
-емаил = песхо 24523@gmail.com
+Ime = Peshp
+razmer = 20sm
+email = pesho@abv.bg
