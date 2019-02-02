@@ -1,3 +1,3 @@
-Ime = Peshp
+Ime = Peshi
 razmer = 20sm
 email = pesho@abv.bg
